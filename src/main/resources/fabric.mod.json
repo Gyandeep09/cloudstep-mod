@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "cloudstep",
+  "version": "${version}",
+  "name": "Cloudstep",
+  "description": "Adds the Cloudstep Feather: leap high and land softly, or sneak to glide down.",
+  "authors": ["Gyandeep09"],
+  "contact": {
+    "sources": "https://github.com/Gyandeep09/cloudstep-mod"
+  },
+  "license": "MIT",
+  "icon": "assets/cloudstep/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["io.github.gyandeep09.cloudstep.CloudstepMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

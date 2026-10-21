@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:feather",
+    "minecraft:phantom_membrane",
+    "minecraft:amethyst_shard"
+  ],
+  "result": {
+    "id": "cloudstep:cloudstep_feather"
+  }
+}
